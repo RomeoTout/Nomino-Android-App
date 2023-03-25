@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/mMore"
+        android:title="@string/share"
+        android:icon="@drawable/ic_more_vertical"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/mShare"
+                android:title="@string/share"
+                android:icon="@android:drawable/ic_menu_share"
+                app:showAsAction="always"
+                />
+            <item
+                android:id="@+id/mFavourites"
+                android:title="@string/toolbar_title_fav"
+                android:icon="@android:drawable/ic_menu_save"
+                app:showAsAction="always"
+                />
+            <item
+                android:id="@+id/mRate"
+                android:title="@string/rate"
+                android:icon="@android:drawable/btn_star_big_on"
+                app:showAsAction="always"
+                />
+            <item
+                android:id="@+id/mPrivacyPolicy"
+                android:title="@string/privacy_policy"
+                android:icon="@android:drawable/ic_secure"
+                app:showAsAction="always"
+                />
+            <item
+                android:id="@+id/mFeedback"
+                android:title="@string/feedback"
+                android:icon="@android:drawable/ic_dialog_email"
+                app:showAsAction="always"
+                />
+        </menu>
+    </item>
+
+</menu>

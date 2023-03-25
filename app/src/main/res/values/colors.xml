@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E8892C</color>
+    <color name="colorPrimaryDark">#765b58</color>
+    <color name="colorAccent">#b9a195</color>
+    <color name="girlColor">#FA758C</color>
+    <color name="boyColor">#136385</color>
+    <color name="uniColor">#D376D3</color>
+    <color name="textRedColor">#752828</color>
+    <color name="backgroundColor">#FBE7C6</color>
+
+</resources>

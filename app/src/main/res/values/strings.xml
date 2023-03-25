@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Nomino</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="rate">Rate</string>
+    <string name="feedback" translatable="false">Feedback</string>
+    <string name="savedtoast">Saved to Favourites</string>
+    <string name="del_msg">Deleted</string>
+    <string name="uri" translatable="false">https://play.google.com/store/apps/details?id=com.rtlab.babyname</string>
+    <string name="privacy_uri" translatable="false">https://treoz.wordpress.com/2019/05/01/privacy-policy/</string>
+    <string name="feedback_email" translatable="false">rtzlabs@gmail.com</string>
+    <string name="title_activity_favourite" translatable="false">FavouriteActivity</string>
+    <string name="no_name">No Name</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="allmale">allmale.txt</string>
+    <string name="alluni">alluni.txt</string>
+    <string name="frenchf">frenchf.txt</string>
+    <string name="frenchm">frenchm.txt</string>
+    <string name="italianf">italianf.txt</string>
+    <string name="italianm">italianm.txt</string>
+    <string name="latinf">latinf.txt</string>
+    <string name="latinm">latinm.txt</string>
+    <string name="hebrewf">hebrewf.txt</string>
+    <string name="hebrewm">hebrewm.txt</string>
+    <string name="irishf">irishf.txt</string>
+    <string name="irishm">irishm.txt</string>
+    <string name="englishf">englishf.txt</string>
+    <string name="englishm">englishm.txt</string>
+    <string name="germanf">germanf.txt</string>
+    <string name="germanm">germanm.txt</string>
+    <string name="greekf">greekf.txt</string>
+    <string name="greekm">greekm.txt</string>
+    <string name="middleeastf">middleeastf.txt</string>
+    <string name="middleeastm">middleeastm.txt</string>
+    <string name="oldenglishf">oldenglishf.txt</string>
+    <string name="oldenglishm">oldenglishm.txt</string>
+    <string name="oldgermanf">oldgermanf.txt</string>
+    <string name="oldgermanm">oldgermanm.txt</string>
+    <string name="welshf">welshf.txt</string>
+    <string name="welshm">welshm.txt</string>
+    <string name="allfemale">allfemale.txt</string>
+    <string name="toolbar_title_fav">Favourites</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="old_english_m">Old English</string>
+    <string name="old_english_f">Old English</string>
+    <string name="old_german_f">Old German</string>
+    <string name="old_german_m">Old German</string>
+    <string name="welsh_f">Welsh</string>
+    <string name="welsh_m">Welsh</string>
+    <string name="middle_eastern_f">Middle Eastern</string>
+    <string name="middle_eastern_m">Middle Eastern</string>
+    <string name="french_f">French</string>
+    <string name="french_m">French</string>
+    <string name="italian_m">Italian</string>
+    <string name="italian_f">Italian</string>
+    <string name="latin_f">Latin</string>
+    <string name="latin_m">Latin</string>
+    <string name="hebrew_f">Biblical</string>
+    <string name="hebrew_m">Biblical</string>
+    <string name="german_f">German</string>
+    <string name="german_m">German</string>
+    <string name="english_f">English</string>
+    <string name="irish_f">Irish</string>
+    <string name="irish_m">Irish</string>
+    <string name="greek_f">Greek</string>
+    <string name="greek_m">Greek</string>
+    <string name="contest">Challenge</string>
+    <string name="collection">Collection</string>
+    <string name="your_favorites">Your Favorites</string>
+    <string name="origins">Origins</string>
+    <string name="girl_french">Girl Names - French</string>
+    <string name="boy_french">Boy Names - French</string>
+    <string name="girl_italian">Girl Names - Italian</string>
+    <string name="boy_italian">Boy Names - Italian</string>
+    <string name="girl_latin">Girl Names - Latin</string>
+    <string name="boy_latin">Boy Names - Latin</string>
+    <string name="girl_hebrew">Girl Names - Hebrew</string>
+    <string name="boy_hebrew">Boy Names - Hebrew</string>
+    <string name="girl_irish">Girl Names - Irish</string>
+    <string name="boy_irish">Boy Names - Irish</string>
+    <string name="girl_english">Girl Names - English</string>
+    <string name="boy_english">Boy Names - English</string>
+    <string name="girl_german">Girl Names - German</string>
+    <string name="boy_german">Boy Names - German</string>
+    <string name="girl_greek">Girl Names - Greek</string>
+    <string name="boy_greek">Boy Names - Greek</string>
+    <string name="girl_middleast">Girl Names - Middle East</string>
+    <string name="boy_middleeast">Boy Names - Middle East</string>
+    <string name="girl_oldenglish">Girl Names - Old English</string>
+    <string name="boy_oldenglish">Boy Names - Old English</string>
+    <string name="girl_oldgerman">Girl Names - Old German</string>
+    <string name="boy_oldgerman">Boy Names - Old German</string>
+    <string name="girl_welsh">Girl Names - Welsh</string>
+    <string name="boy_welsh">Boy Names - Welsh</string>
+    <string name="choose_name">Choose the name you like most</string>
+    <string name="winner_is">The winner is</string>
+    <string name="english_m">English</string>
+    <string name="package_name">com.rtlab.babyname</string>
+    <string name="rate_question">"Thanks for being Awesome and taking a moment to rate the app. "</string>
+    <string name="no">No</string>
+    <string name="remind_me_later">Later</string>
+</resources>

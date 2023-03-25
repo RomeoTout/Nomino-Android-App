@@ -1,0 +1,55 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Custom Toolbar -->
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:itemBackground">@android:color/transparent</item>
+        <item name="android:fontFamily">@font/playball</item>
+    </style>
+
+    <!-- Custom Text color-->
+    <style name="TextColor">
+        <item name="android:textColor">#752828</item>
+    </style>
+
+    <style name="TextStyle">
+        <item name="android:textColor">#752828</item>
+        <item name="fontFamily">@font/playball</item>
+    </style>
+
+    <style name="ListTextStyleGirl">
+        <item name="android:textColor">#BD2E5F</item>
+        <item name="fontFamily">@font/playball</item>
+        <item name="android:textSize">23sp</item>
+    </style>
+
+    <style name="ListTextStyleBoy">
+        <item name="android:textColor">#3D4677</item>
+        <item name="fontFamily">@font/playball</item>
+        <item name="android:textSize">23sp</item>
+    </style>
+
+    <style name="ThemeOverlay.MyTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:textColor">@color/textRedColor</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:background">@drawable/custom_dropdown</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
